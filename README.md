@@ -7,4 +7,4 @@ Tmux should auto load the config for new sessions
 - From a shell
   - $ tmux source-file ~/.tmux.conf
 
-cd ~ && curl -O https://raw.githubusercontent.com/frankjannis/tmux.conf/refs/heads/main/.tmux.conf && tmux source-file ~/.tmux.conf
+<code>cd ~ && curl -O https://raw.githubusercontent.com/frankjannis/tmux.conf/refs/heads/main/.tmux.conf && tmux source-file ~/.tmux.conf</code>
